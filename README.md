@@ -1,0 +1,2 @@
+# ZJNavigationController
+一个方便实现全屏滑动返回的navigationController, 同时实现了常用的每一个界面都拥有一个独立的navigationBar的功能.
